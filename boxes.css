@@ -1,0 +1,17 @@
+.box {
+    height: 4em;
+    width: 4em;
+    padding: 1em;
+    border: 1px solid green ;
+  }
+
+.click-grey {
+    background: grey;
+}
+
+
+#boxes-space {
+        padding-top: 2em;
+        display: flex;  
+        flex-wrap: wrap;
+}
